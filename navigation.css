@@ -10,6 +10,7 @@ ul {
     height: 25%;
     position: fixed;
     overflow: auto;
+    border: 1px solid #555;
 }
 li a {
     display: block;
@@ -21,9 +22,6 @@ li a {
 li a:hover {
     background-color: #ffdf00;
     color: white:
-ul {
-    border: 1px solid #555;
-    }
 li {
     text-align: center;
     border-bottom: 1px solid #555;
